@@ -7,8 +7,10 @@ Passionate about the web and digital technology, I chose to make it my professio
 
 ## Projets
 
-Here are some web projects I have had the opportunity to work on:
+Projects in progress:
+- [Forecast Budget](https://github.com/Gregson971/forecast_budget)
 
+Here are some web projects I have had the opportunity to work on:
 - [openclassrooms.com](https://openclassrooms.com/fr/)
 - [darick-tattoos.com](https://darick-tattoos.com/)
 - [engie.com](https://www.engie.com/)
