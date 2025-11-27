@@ -9,6 +9,7 @@ Passionate about the web and digital technology, I chose to make it my professio
 
 Projects in progress:
 - [Forecast Budget](https://github.com/Gregson971/forecast_budget)
+- [StatCoach Pro](https://github.com/Gregson971/basketball-stats-coach)
 
 Here are some web projects I have had the opportunity to work on:
 - [openclassrooms.com](https://openclassrooms.com/fr/)
